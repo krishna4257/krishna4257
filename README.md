@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jaya Krishna
+- 👀 I’m interested in coding, startup's, Bussiness.
+- 🌱 I’m currently learning Java Full Stack Development
+- 📫 How to reach me jayakrishna4257@gmail.com
