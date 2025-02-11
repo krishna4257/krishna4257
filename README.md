@@ -24,4 +24,3 @@
 📡 **Kafka Streaming Pipelines**: Processed 1M+ records in real time
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=dark)
